@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h0lend9r, crine, Pesiok, JeLeni
+=======
+h0lend9r, crine, Pesiok, meisterxab
+>>>>>>> d436b19936b2a433a3ee55d0e549efb0c2bd7cc3
 
 Symfony Standard Edition
 ========================
