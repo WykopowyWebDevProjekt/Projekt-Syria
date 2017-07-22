@@ -2,22 +2,22 @@ raczynskik, h0lend9r, crine, Pesiok, meisterxab, JeLeni, MiniDelta66
 
 PODSTAWOWY OPIS STRONY + PODZIA£ 
 
-strona g³ówna - œci¹gane bêd¹ wpisy z #syria i wrzucane po akceptacji moderatora jako wydarzenia bie¿¹ce 
-zak³adki:
--geneza konfliktu - czyli przedstawienie w podobny sposób jak na wikipedii tekst + zdjêcia; mo¿liwoœæ edytowania przez u¿ytkownika (opcja dodatkowa, jesli sie da), ale akceptacja moderatora wymagana by wprowadziæ zmiany
--g³ówne ugrupowania walcz¹ce (albo strony konfliktu) potrzebne 4 kafelki z logiem lub flag¹ (flagi fajnie s¹ u¿yte w nag³ówku tagu #syria) i nazw¹. Po wejœciu w kafelek lista organizacji, ich opis + przynajmniej jedno zdjêcie
- - Si³y Prorz¹dowe (flaga syrii)
+strona g³owna - sciagane beda wpisy z #syria i wrzucane po akceptacji moderatora jako wydarzenia biezace 
+zakladki:
+-geneza konfliktu - czyli przedstawienie w podobny sposob jak na wikipedii tekst + zdjecia; mozliwosc edytowania przez uzytkownika (opcja dodatkowa, jesli sie da), ale akceptacja moderatora wymagana by wprowadzic zmiany
+-glowne ugrupowania walcz¹ce (albo strony konfliktu) potrzebne 4 kafelki z logiem lub flaga (flagi fajnie sa uzyte w naglowku tagu #syria) i nazwa. Po wejsciu w kafelek lista organizacji, ich opis + przynajmniej jedno zdjecie
+ - Si³y Prorzadowe (flaga syrii)
  - Si³y Rebelianckie (flaga free syrian army)
  - Si³y Kurdyjsko-Arabskie (flaga rojavy)
  - ISIS (flaga isis)
--popularne tagi, czyli lista tagów przewijaj¹cych siê po #syria jak np. #bitwaomosul #bitwaorakke ka¿dy by mia³ swój kafelek i jeœli siê zmieœci krótki opis i po naciœniêciu przekierowanie na tag wykopu
--polecane konta twitterowe, analogicznie co popularne tagi. Kafelek ze zdjêciem i opisem i po naciœniêciu przekierowanie na profil twitterowy przyk³adowe konta: https://twitter.com/wszewko?lang=pl https://twitter.com/conflicts
--osobna zak³adka z map¹ live http://syria.liveuamap.com/
--galeria wszystkich zdjêæ (¿eby zdjêcia by³y obok siebie, a nie jedno pod drugim coœ jak to https://www.webpagefx.com/blog/images/assets/images.sixrevisions.com/2009/04/15-03_cssremix.jpg ?)
--galeria zdjêæ tylko z #bliskowschodniememy
+-popularne tagi, czyli lista tagow przewijaj¹cych sie po #syria jak np. #bitwaomosul #bitwaorakke kazdy by mial swoj kafelek i jesli siê zmiesci krotki opis i po nacisnieciu przekierowanie na tag wykopu
+-polecane konta twitterowe, analogicznie co popularne tagi. Kafelek ze zdjeciem i opisem i po nacisnieciu przekierowanie na profil twitterowy przykladowe konta: https://twitter.com/wszewko?lang=pl https://twitter.com/conflicts
+-osobna zakladka z mapa live http://syria.liveuamap.com/
+-galeria wszystkich zdjec (zeby zdjecia byly obok siebie, a nie jedno pod drugim coœ jak to https://www.webpagefx.com/blog/images/assets/images.sixrevisions.com/2009/04/15-03_cssremix.jpg ?)
+-galeria zdjec tylko z #bliskowschodniememy
  
  
-?-streszczenia d³ugoterminowe (nad tym myœlê ci¹gle, jak to ugryŸæ)?
+?-streszczenia dlugoterminowe (nad tym mysle ciagle, jak to ugryzc)?
 
 
 Symfony Standard Edition
