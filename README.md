@@ -1,20 +1,20 @@
 raczynskik, h0lend9r, crine, Pesiok, meisterxab, JeLeni, MiniDelta66
 
-PODSTAWOWY OPIS STRONY + PODZIA£ 
+PODSTAWOWY OPIS STRONY + PODZIAL 
 
 strona glowna - sciagane beda wpisy z #syria i wrzucane po akceptacji moderatora jako wydarzenia biezace 
 zakladki:
--geneza konfliktu - czyli przedstawienie w podobny sposob jak na wikipedii tekst + zdjecia; mozliwosc edytowania przez uzytkownika (opcja dodatkowa, jesli sie da), ale akceptacja moderatora wymagana by wprowadzic zmiany
--glowne ugrupowania walczace (albo strony konfliktu) potrzebne 4 kafelki z logiem lub flaga (flagi fajnie sa uzyte w naglowku tagu #syria) i nazwa. Po wejsciu w kafelek lista organizacji, ich opis + przynajmniej jedno zdjecie
- - Sily Prorzadowe (flaga syrii)
- - Sily Rebelianckie (flaga free syrian army)
- - Sily Kurdyjsko-Arabskie (flaga rojavy)
- - ISIS (flaga isis)
--popularne tagi, czyli lista tagow przewijajacych sie po #syria jak np. #bitwaomosul #bitwaorakke kazdy by mial swoj kafelek i jesli sie zmiesci krotki opis i po nacisnieciu przekierowanie na tag wykopu
--polecane konta twitterowe, analogicznie co popularne tagi. Kafelek ze zdjeciem i opisem i po nacisnieciu przekierowanie na profil twitterowy przykladowe konta: https://twitter.com/wszewko?lang=pl https://twitter.com/conflicts
--osobna zakladka z mapa live http://syria.liveuamap.com/
--galeria wszystkich zdjec (zeby zdjecia byly obok siebie, a nie jedno pod drugim coœ jak to https://www.webpagefx.com/blog/images/assets/images.sixrevisions.com/2009/04/15-03_cssremix.jpg ?)
--galeria zdjec tylko z #bliskowschodniememy
+	- geneza konfliktu - czyli przedstawienie w podobny sposob jak na wikipedii tekst + zdjecia; mozliwosc edytowania przez uzytkownika (opcja dodatkowa, jesli sie da), ale akceptacja moderatora wymagana by wprowadzic zmiany
+	- glowne ugrupowania walczace (albo strony konfliktu) potrzebne 4 kafelki z logiem lub flaga (flagi fajnie sa uzyte w naglowku tagu #syria) i nazwa. Po wejsciu w kafelek lista organizacji, ich opis + przynajmniej jedno zdjecie
+ 		1. Sily Prorzadowe (flaga syrii)
+ 		2. Sily Rebelianckie (flaga free syrian army)
+ 		3. Sily Kurdyjsko-Arabskie (flaga rojavy)
+ 		4. ISIS (flaga isis)
+	- popularne tagi, czyli lista tagow przewijajacych sie po #syria jak np. #bitwaomosul #bitwaorakke kazdy by mial swoj kafelek i jesli sie zmiesci krotki opis i po nacisnieciu przekierowanie na tag wykopu
+	- polecane konta twitterowe, analogicznie co popularne tagi. Kafelek ze zdjeciem i opisem i po nacisnieciu przekierowanie na profil twitterowy przykladowe konta: https://twitter.com/wszewko?lang=pl https://twitter.com/conflicts
+	- osobna zakladka z mapa live http://syria.liveuamap.com/
+	- galeria wszystkich zdjec (zeby zdjecia byly obok siebie, a nie jedno pod drugim coœ jak to https://www.webpagefx.com/blog/images/assets/images.sixrevisions.com/2009/04/15-03_cssremix.jpg ?)
+	- galeria zdjec tylko z #bliskowschodniememy
  
  
 ?-streszczenia dlugoterminowe (nad tym mysle ciagle, jak to ugryzc)?
