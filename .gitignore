@@ -16,3 +16,5 @@
 /vendor/
 /web/bundles/
 /.idea
+/app/Resources/node_modules
+/app/Resurces/temp
