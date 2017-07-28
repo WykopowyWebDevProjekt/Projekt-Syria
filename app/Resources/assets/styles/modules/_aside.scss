@@ -1,12 +1,12 @@
-.aside{
-	background: $primary;
+.aside {
+    background: $primary;
 
-	margin-top: 2rem;
-	margin-left: 1rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
 
-	width: 33%;
+    width: 33%;
 
-	.aside__search{
-		margin: 1rem;
-	}
+    &__search {
+        margin: 1rem;
+    }
 }
