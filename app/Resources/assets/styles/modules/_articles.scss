@@ -1,12 +1,4 @@
-.main{
-	background: $primary;
-
-	margin-top: 2rem;
-	margin-right: 1rem;
-
-	width: 65%;
-
-	.articles{
+.articles{
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -31,6 +23,7 @@
 
 			.articles__content{
 				padding: 0 1rem;
+				min-height: 9rem;
 			}
 
 			.articles__info{
@@ -47,6 +40,8 @@
 			}
 
 			.articles__buttons{
+				margin-right: 1rem;
+
 				display: -webkit-box;
 				display: -ms-flexbox;
 				display: flex;
@@ -56,32 +51,3 @@
 			}
 		}
 	}
-
-	.main__nav{
-		display: -webkit-box;
-		display: -ms-flexbox;
-		display: flex;
-	    -ms-flex-wrap: wrap;
-	        flex-wrap: wrap;
-	    -ms-flex-pack: distribute;
-	        justify-content: space-around;
-
-		padding-bottom: 1rem;
-	    margin: 0.5rem 0.5rem;
-
-	    .main__nav--next{
-	    	width: 69%;
-	    }
-	    .main__nav--random{
-	    	width: 29%;
-	    }
-	    .main__nav--numeric{
-	    	-webkit-box-flex: 1;
-	    	    -ms-flex-positive: 1;
-	    	        flex-grow: 1;
-	    	margin-top: 0.2rem;
-	    }
-	}
-
-}
-

@@ -3,8 +3,8 @@
 @import 'base/_global.scss';
 @import 'base/_mixins.scss';
 
-@import 'base/_body.scss';
-@import 'base/_header.scss';
-@import 'base/_main.scss';
-@import 'base/_aside.scss';
-@import 'base/_footer.scss';
+@import 'modules/_header.scss';
+@import 'modules/_main.scss';
+@import 'modules/_articles.scss';
+@import 'modules/_aside.scss';
+@import 'modules/_footer.scss';

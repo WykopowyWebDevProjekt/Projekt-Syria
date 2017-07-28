@@ -11,7 +11,7 @@
 	    -ms-flex-direction: column;
 	        flex-direction: column;
 
-	.header--index{
+	.header__index{
 		margin: 0 1rem;
 	}
 	
@@ -29,12 +29,16 @@
 		    -ms-flex-align: center;
 		        align-items: center;
 
-		button{
+		.header__button{
+			height: 4rem;
+			margin: 0 0.5rem;;
+		}
+		.header__button--login{
 			height: 4rem;
 			margin: 0 0.5rem;;
 		}
 
-		.header__nav--menu li{
+		.header__nav li{
 			display: inline;
 		}
 	}
