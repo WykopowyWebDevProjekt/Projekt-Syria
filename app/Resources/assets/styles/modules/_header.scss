@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    &__index {
+        margin: 0 1rem;
+    }
+
+    &__nav {
+        background: $primary;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__button {
+        height: 4rem;
+        margin: 0 0.5rem;
+        ;
+    }
+
+    &__nav li {
+        display: inline;
+    }
+}
