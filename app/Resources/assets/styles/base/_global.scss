@@ -8,6 +8,25 @@ html {
 
 }
 
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-size: 1.6rem;  
+
+	width: $siteWidth;
+ 	height: 100%;
+
+ 	background: $primaryDark;
+
+ 	display: -webkit-box;
+
+ 	display: -ms-flexbox;
+
+ 	display: flex;
+ 	-ms-flex-wrap: wrap;
+ 	    flex-wrap: wrap;
+}
+
 *, *::after, *::before {
     box-sizing: inherit;
 }

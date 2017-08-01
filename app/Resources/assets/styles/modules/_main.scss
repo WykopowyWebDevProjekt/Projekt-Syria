@@ -1,0 +1,30 @@
+.main {
+    background: $primary;
+
+    margin-top: 2rem;
+    margin-right: 1rem;
+
+    width: 65%;
+
+    &__nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        padding-bottom: 1rem;
+        margin: 0.5rem 0.5rem;
+    }
+
+    &__navButton--next {
+        width: 69%;
+    }
+
+    &__navButton--random {
+        width: 29%;
+    }
+
+    &__navButton {
+        flex-grow: 1;
+        margin-top: 0.2rem;
+    }
+}

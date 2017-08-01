@@ -1,7 +1,132 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-    <div >
-        <h1>Test</h1>
-    </div>
+   <header class="header">
+   		<div class="header__banner"><h1>PROJEKT SYRIA</h1></div>
+   		<nav class="header__nav">
+   			<a href="#" class="header__index">Projekt-Syria</a>
+   			<ul class="header__nav">
+               <li><button class="header__button">Bieżące</button></li>
+   				<li><button class="header__button">Informacje o konflikcie</button></li>
+               <li><button class="header__button">Historia konfliktu</button></li>
+   				<li><button class="header__button">Galeria</button></li>
+   				<li><button class="header__button">Memy</button></li>
+   				<li><button class="header__button">Kontakt</button></li>
+   			</ul>
+            <button class="header__button header__button--login">Zaloguj</button>
+   		</nav> <!-- header__nav -->
+   		
+   </header> <!-- .header -->
+
+   <main class="main">
+   		<section class="articles">
+            <article class="articles__article">
+               <picture class="articles__picture">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="">
+               </picture>
+               <div class="articles__info">
+                  <div class="articles__author">Author</div>
+                  <div class="articles__date">02.01.2023</div>
+               </div> <!-- articles__info -->
+               <div class="articles__content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem minus veritatis, labore? Voluptas ex asperiores, fuga sapiente molestiae cupiditate, quisquam odio, dolorem minima distinctio rerum ipsa eum nihil odit et. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat adipisci obcaecati animi sed eligendi dolorem dolores nulla aut, sequi cupiditate. Doloribus rerum, est commodi ipsam quis minima soluta, aliquid earum.</p>
+               </div> <!-- articles__content -->
+               <div class="articles__buttons">
+                  <button class="articles__buttons--wykop">Wykop</button>
+                  <button class="articles__buttons--more">Więcej</button>
+               </div>
+            </article> <!-- articles__article -->
+
+            <article class="articles__article">
+               <picture class="articles__picture">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="">
+               </picture>
+               <div class="articles__info">
+                  <div class="articles__author">Author</div>
+                  <div class="articles__date">02.01.2023</div>
+               </div> <!-- articles__info -->
+               <div class="articles__content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, adipisci harum omnis non eaque. Sunt obcaecati reprehenderit nihil, aliquam odit. Aliquid, velit saepe eos? Dolorem molestias recusandae numquam, optio eaque!</p>
+               </div> <!-- articles__content -->
+               <div class="articles__buttons">
+                  <button class="articles__buttons--wykop">Wykop</button>
+                  <button class="articles__buttons--more">Więcej</button>
+               </div>
+            </article> <!-- articles__article -->
+
+            <article class="articles__article">
+               <picture class="articles__picture">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="">
+               </picture>
+               <div class="articles__info">
+                  <div class="articles__author">Author</div>
+                  <div class="articles__date">02.01.2023</div>
+               </div> <!-- articles__info -->
+               <div class="articles__content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ipsam officia corporis, porro, quas cumque deserunt! Fugiat molestiae officia consectetur doloribus quos sint explicabo enim, fuga similique! Magnam, vero, est. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio eaque, suscipit est. Et omnis doloribus cum aliquam, fugiat voluptatem eligendi veniam aut neque! Quibusdam dolorum consequatur voluptatem dolore architecto officia..Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam adipisci iste voluptatibus voluptatem cupiditate ullam fugiat, illum reprehenderit mollitia, illo harum repellat ducimus nesciunt id error! Minima nulla, voluptates soluta.</p>
+               </div> <!-- articles__content -->
+               <div class="articles__buttons">
+                  <button class="articles__buttons--wykop">Wykop</button>
+                  <button class="articles__buttons--more">Więcej</button>
+               </div>
+            </article> <!-- articles__article -->
+
+            <article class="articles__article">
+               <picture class="articles__picture">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="">
+               </picture>
+               <div class="articles__info">
+                  <div class="articles__author">Author</div>
+                  <div class="articles__date">02.01.2023</div>
+               </div> <!-- articles__info -->
+               <div class="articles__content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est consequuntur quasi explicabo aliquid omnis voluptatibus laudantium, inventore repudiandae sunt cumque possimus eveniet error quas facilis a! Eos laborum, possimus dignissimos!</p>
+               </div> <!-- articles__content -->
+               <div class="articles__buttons">
+                  <button class="articles__buttons--wykop">Wykop</button>
+                  <button class="articles__buttons--more">Więcej</button>
+               </div>
+            </article> <!-- articles__article -->
+
+            <article class="articles__article">
+               <picture class="articles__picture">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" alt="">
+               </picture>
+               <div class="articles__info">
+                  <div class="articles__author">Author</div>
+                  <div class="articles__date">02.01.2023</div>
+               </div> <!-- articles__info -->
+               <div class="articles__content">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex rerum iure impedit architecto, dolorum, vel veniam voluptatem repellat tempora similique eum, dolore dicta ipsum mollitia accusamus eligendi consequatur omnis perspiciatis.</p>
+               </div> <!-- articles__content -->
+               <div class="articles__buttons">
+                  <button class="articles__buttons--wykop">Wykop</button>
+                  <button class="articles__buttons--more">Więcej</button>
+               </div>
+            </article> <!-- articles__article -->
+   		</section> <!-- articles -->
+
+         <section class="main__nav">
+            <button class="main__navButton--next">Następna strona</button>
+            <button class="main__navButton--random">Losuj wpis</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+            <button class="main__navButton">123</button>
+         </section> <!-- main__nav -->
+
+   </main> <!-- .main -->
+
+   <aside class="aside">
+      <input type="search" class="aside__search" placeholder="Search">
+
+      <h2>TWITTER</h2>
+   </aside> <!-- .aside -->
+
+   <footer class="footer">
+      WykopowyWebDevProjekt
+   </footer>
 {% endblock %}
